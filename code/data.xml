@@ -31,10 +31,15 @@
 	</socials>
 	<description>
 Pocket Moon Games is three-person indie studio based out of Ontario, Canada. Our focus is on making games we want to play.
-</description>
-	<!--
-<histories><history><header>Our background</header><text>Pocket Moon Games is comprised of Jeffrey Newton-Evans (he/him), Than More (he/they), and Ren Burke (they/them), three developers from Ottawa & Toronto, ON, Canada, and was founded in 2020. Prior to creating PMG, all three members had varying levels of experience as hobbyist developers, with the foundation of the studio marking the start of a shift into professional game development.</text></history><history><header>As Pocket Moon Games</header><text>PMG was originally founded to work on the game Phantophone, a hand drawn narrative rhythm game about ghosts (still in production, release date TBD). The October 31st, 2024 release of WORMHOLE (Steam, Nintendo Switch) marks the studio's first published project. WORMHOLE began initially as a side project to a side project, a game-within-a-game-within-a-game-jam, that the team loved so much they couldn't help but keep developing it.</text></history></histories>
--->
+	</description>
+	<histories>
+		<history>
+			<header>Our background</header>
+			<text>
+			Pocket Moon Games is comprised of Jeffrey Newton-Evans (he/him), Than More (he/they), and Ren Burke (they/them), three developers from Ottawa &amp; Toronto, ON, Canada, and was founded in 2020. Prior to creating PMG, all three members had varying levels of experience as hobbyist developers, with the foundation of the studio marking the start of a shift into professional game development.</text></history><history><header>As Pocket Moon Games</header><text>PMG was originally founded to work on the game Phantophone, a hand drawn narrative rhythm game about ghosts (still in production, release date TBD). The October 31st, 2024 release of WORMHOLE (Steam, Nintendo Switch) marks the studio's first published project. WORMHOLE began initially as a side project to a side project, a game-within-a-game-within-a-game-jam, that the team loved so much they couldn't help but keep developing it.
+			</text>
+		</history>
+	</histories>
 	<trailers>
 		<trailer>
 			<name>WORMHOLE Release Date Trailer</name>
