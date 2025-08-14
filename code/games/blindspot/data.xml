@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game>
+	<title>BLINDSPOT</title>
+	<release-date>October 31st, 2024</release-date>
+	<website>https://pocketmoon.games/blindspot</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+	<platforms>
+		<platform>
+			<name>Itch</name>
+			<link>https://pocketmoongames.itch.io/blindspot</link>
+		</platform>
+	</platforms>
+	<description>
+Enter the VOID in this nightmare fueled arcade vision. Locked in an eternal chase, avoid eye contact at any cost by sliding, hopping and hyper-dashing your way around the SPHERE. Careful navigation is key because in this nightmare, looks can kill.
+</description>
+	<features>
+		<feature>
+		Completed in one month and exhibited as a part of Lockwood Immersive's FLUX - A Toronto Based Immersive Cyberpunk Experience.
+		</feature>
+	</features>
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>OnR21-vwgCk</youtube>
+		</trailer>
+	</trailers>
+	<credits>
+		<credit>
+			<person>Than More</person>
+			<role>Game Designer, Lead Programmer, Lead Artist, Graphics Programmer, UI/UX</role>
+		</credit>
+		<credit>
+			<person>Jeffrey Newton-Evans</person>
+			<role>Sound Designer, Soundtrack, Graphic Design, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Ren Burke</person>
+			<role>Additional art and design, Social Media, Community Management</role>
+		</credit>
+	</credits>
+</game>
